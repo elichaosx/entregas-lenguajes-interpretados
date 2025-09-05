@@ -21,3 +21,8 @@ En la clase de composición estamos aprendiendo a usar PhotoShop, así como tamb
 
 En la materia de diseño de videojuegos se nos está mostrando más acerca de cómo es desarrollar un videojuego en 3D, para esto usamos Unity y Unreal, además de eso nos enseña como podemos hacer un buen desarrollo de niveles y narrativa.
 ![Unreal](https://docubase.mit.edu/wp-content/uploads/2019/07/UnrealEngine_blog_stream-motionbuilder-animation-to-unreal-engine-with-live-link_Blog-share-img-1200x630-847d20818c2494d5b937f98ad05fb325e8d75a8f-800x420.jpg)
+## Proyecto de App
+### Eduardo Guerrero
+
+En la materia de proyecto de App estamos trabajando en el desarrollo de un juego 2D para dispositivos moviles, los juegos son en equipos, lo cual deja a consideracion de cada equipo la trama que llevara su juego así como su jugabilidad.
+![Juego](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/637b/472345/7f2df69be9b1003ef3550b8f82c87d20)

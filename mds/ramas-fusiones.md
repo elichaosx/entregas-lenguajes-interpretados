@@ -26,3 +26,7 @@ En la materia de diseño de videojuegos se nos está mostrando más acerca de c�
 
 En la materia de proyecto de App estamos trabajando en el desarrollo de un juego 2D para dispositivos moviles, los juegos son en equipos, lo cual deja a consideracion de cada equipo la trama que llevara su juego así como su jugabilidad.
 ![Juego](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/637b/472345/7f2df69be9b1003ef3550b8f82c87d20)
+## Ingles
+
+En la materia estamos viendo los tiempos, como el Present Continous, Verb To Be y el tiempo pasado, no hemos tenido la oportunidad de ver más pues tuvimos un cambio de maestra
+![Ingles](https://i.ytimg.com/vi/-VnbdICSbOo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCn5Hy5wQIANsclY2mDFKIrGlGUrQ)

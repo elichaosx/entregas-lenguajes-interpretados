@@ -11,7 +11,7 @@ Bueno, mi nombre es Celeste, tengo 20 años, estoy estudiando la carrera de Desa
 - [Facebook](https://www.facebook.com/share/14HyP6AXjMm/?mibextid=wwXIfr)
 - [Correo](https://outlook.live.com/mail/0/)
 
-[Mi Foto](https://photos.app.goo.gl/BWRpyDV6rAUKJgmb9)
+![Mi Foto](/Assets/Foto_Trabajo.jpg)
 
 ##ENTREGABLES
 

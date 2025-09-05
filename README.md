@@ -15,4 +15,4 @@ Bueno, mi nombre es Celeste, tengo 20 años, estoy estudiando la carrera de Desa
 
 ##ENTREGABLES
 
-- [Practica 1](mds/apuntes.md)
+- [Ver apuntes](mds/apuntes.md)

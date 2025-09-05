@@ -13,6 +13,7 @@ Bueno, mi nombre es Celeste, tengo 20 años, estoy estudiando la carrera de Desa
 
 ![Mi Foto](/Assets/Foto_Trabajo.jpg)
 
-##ENTREGABLES
+## ENTREGABLES
 
 - [Ver apuntes](mds/apuntes.md)
+- [Práctica 3](mds/etiquetas.md)

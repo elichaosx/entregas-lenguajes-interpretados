@@ -17,3 +17,4 @@ Bueno, mi nombre es Celeste, tengo 20 años, estoy estudiando la carrera de Desa
 
 - [Ver apuntes](mds/apuntes.md)
 - [Práctica 3](mds/etiquetas.md)
+- [Practica 4](mds/primer-parcial.md)
